@@ -16,7 +16,7 @@ This tutorial outlines the post installation steps necessary to access osTicket.
 
 - Windows 10</b> (21H2)
 
-<h2>Installation Steps</h2>
+<h2>Part 2: Post Installation Steps</h2>
 
 - Configure Roles:
   - Access Admin Panel -> Agents -> Roles.
